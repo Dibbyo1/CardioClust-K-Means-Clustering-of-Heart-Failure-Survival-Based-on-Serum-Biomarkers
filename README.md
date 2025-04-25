@@ -1,0 +1,2 @@
+# CardioClust-K-Means-Clustering-of-Heart-Failure-Survival-Based-on-Serum-Biomarkers
+CardioClust is a machine learning project that uses K-Means clustering to analyze the impact of serum creatinine and ejection fraction on heart failure patient survival. This bioinformatics analysis leverages clinical data from the UCI Heart Failure dataset to reveal survival patterns using unsupervised learning techniques.
